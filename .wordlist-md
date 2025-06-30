@@ -39,6 +39,7 @@ DevWorkspaces
 Devfile
 DotNET
 ECK
+EKS
 Eventing
 FullAccess
 GPUs
@@ -90,6 +91,7 @@ PV
 PolicyReport
 Prometheus
 Querier
+QuickStart
 RBAC
 README
 RHACM
